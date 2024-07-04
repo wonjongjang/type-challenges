@@ -56,3 +56,4 @@ interface Expected2 {
 # Reference
 
 - [Pick<Type, Keys>](https://www.typescriptlang.org/docs/handbook/utility-types.html#picktype-keys)
+- [Mapped Types](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html)
